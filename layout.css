@@ -1,0 +1,66 @@
+.zebra{
+    background-color: hsl(204, 82%, 49%);
+    height: 800px;
+    width 1000px;
+    margin: auto;
+
+}
+
+.cock{
+background-color: tan;
+height: 600px;
+width: 800px;
+margin: auto;
+
+}
+
+.frog{
+    background-color: peru;
+    height: 600px;
+    width: 400px;
+
+}
+
+.one{
+    float: left;
+    background-color: white;
+    color: black;
+    text-align: center;
+
+}
+.two{
+    float: right;
+    background-color: hsl(199, 86%, 50%);
+    color: white;
+    text-align: center;
+
+}
+/* twitter logo*/
+.logo{
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-right: 200px;
+    
+}
+
+body{
+font-family: 'Times New Roman', Times, serif;
+}
+
+.write{
+    border: 0px grey;
+    box-shadow: 2px 1px 2px rgb(184, 179, 179);
+    padding: 10px;
+width: 300px;
+border-radius: 5px;
+}
+.forgot{
+    margin-left: 10px;
+}
+
+.button{
+    border: 0px;
+    border-radius: 5px;
+
+    width: 300px;
+}
