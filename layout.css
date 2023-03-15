@@ -61,6 +61,6 @@ border-radius: 5px;
 .button{
     border: 0px;
     border-radius: 5px;
-
+padding: 10px;
     width: 300px;
 }

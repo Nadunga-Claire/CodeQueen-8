@@ -1,0 +1,49 @@
+.motherbox{
+    border: 10px rgb(193, 247, 193) solid;
+    height: 400px;
+    width: 400px;
+    margin:auto
+}
+
+#babybox{
+    height: 200px;
+    width: 200px;
+    border-top: 2px dotted rgb(198, 236, 120);
+    border-bottom: 5px yellow double;
+    border-left: 2px rgb(186, 186, 238) dashed;
+    border-right: 3px grey solid;
+    margin: auto;
+}
+.boxone{
+    border-radius: 10px;
+    border: 3px rgb(248, 248, 181) solid;
+    width: 800px;
+height: 800px;
+margin: 50px 100px 150px 300px;
+box-shadow: 10px 10px grey;
+
+
+}
+
+#box2{
+    width: 600px;
+    height: 600px;
+    margin: 80px;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 50px;
+border: 30px rgb(238, 222, 225) solid;
+    background-color: azure;
+border-top-color: rgb(189, 142, 233);
+box-shadow: 8px 8px 8px rgb(235, 186, 186);
+}
+
+.box3{
+    background-color: blanchedalmond;
+    border: 30px goldenrod solid;
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    border-radius: 50%;
+
+    box-shadow: 10px 10px 50px goldenrod;
+}
